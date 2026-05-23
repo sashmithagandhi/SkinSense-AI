@@ -9,6 +9,15 @@ https://skinsense-ai-sashmitha.streamlit.app
 
 ---
 
+## ✨ Project Highlights
+- 🚀 Fully deployed AI web app using Streamlit
+- 🧠 Rule-based recommendation system for skincare
+- 📊 Personalized suggestions based on skin type & concerns
+- 🌐 Live accessible web application
+- 💡 Beginner-friendly AI/ML project implementation
+
+---
+
 ## ✨ Features
 
 - Personalized skincare recommendations  
