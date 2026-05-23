@@ -1,3 +1,37 @@
 # SkinSense-AI
-Live Demo:
+##Skincare Recommendation System
+###Live Demo:
 https://skinsense-ai-sashmitha.streamlit.app
+
+#Features
+Personalized skincare recommendations
+Skin type-based logic 
+Ingredient suggestions are based on skin concerns
+Interactive web interface using Streamlit
+Simple and fast rule-based AI engine
+
+#Tech Stack
+Python 
+Streamlit 
+Rule-based AI Logic
+Basic data structures (lists, dictionaries)
+
+#Project Structure
+SkinSense-AI/
+│
+├── app.py                # Main Streamlit application
+├── recommendations.py    # Logic for skincare suggestions
+├── data.py               # Ingredient and rules dataset
+├── requirements.txt      # Dependencies
+└── README.md             # Project documentation
+
+#How It Works
+User selects skin type (oily/dry/combination/sensitive/normal)
+User selects skin concerns (acne, dryness, pigmentation, etc.)
+System applies rule-based logic
+Recommended skincare ingredients are displayed
+
+#Author
+Sashmitha Gandhi
+BSc Computer Science (AI) Student
+Aspiring AI/ML Engineer | Content Creator
