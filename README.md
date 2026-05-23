@@ -28,6 +28,20 @@ https://skinsense-ai-sashmitha.streamlit.app
 
 ---
 
+## 📸 Screenshots
+
+![Screenshot 1](assets/1000170405.jpg)
+![Screenshot 2](assets/1000170406.jpg)
+![Screenshot 3](assets/1000170407.jpg)
+![Screenshot 4](assets/1000170408.jpg)
+![Screenshot 5](assets/1000170409.jpg)
+![Screenshot 6](assets/1000170410.jpg)
+![Screenshot 7](assets/1000170411.jpg)
+![Screenshot 8](assets/1000170412.jpg)
+![Screenshot 9](assets/1000170413.jpg)
+
+---
+
 ## 🛠️ Tech Stack
 
 - Python  
