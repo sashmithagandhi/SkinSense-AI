@@ -31,7 +31,7 @@
 
 ##Demo
 
-![Demo GIF](assets/demo.gif)
+![Demo GIF](assets/1000171035.gif)
 
 
 ---
