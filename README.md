@@ -29,6 +29,13 @@
 
 ---
 
+##Demo
+
+![Demo GIF](assets/demo.gif)
+
+
+---
+
 ## ✨ Project Highlights
 - 🚀 Fully deployed AI web app using Streamlit
 - 🧠 Rule-based recommendation system for skincare
