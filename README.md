@@ -50,6 +50,51 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=w
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-To build a simple AI-based recommendation system that demonstrates real-world application of rule-based logic in skincare personalization.
+---
+
+## 📁 Project Structure
+SkinSense-AI/
+├── app.py                  # Main Streamlit application
+├── recommendations.py      # Logic for skincare suggestions
+├── data.py                 # Ingredient and rules dataset
+├── requirements.txt        # Dependencies
+└── README.md               # Project documentation
+
+---
+
+## 🚀 How to Run Locally
+
+```bash
+# Step 1 — Clone the repository
+git clone https://github.com/sashmithagandhi/SkinSense-AI.git
+
+# Step 2 — Navigate to the folder
+cd SkinSense-AI
+
+# Step 3 — Install dependencies
+pip install -r requirements.txt
+
+# Step 4 — Run the app
+streamlit run app.py
+```
+
+---
+
+## 💡 What I Learned
+- How to build and deploy a real AI web application end to end
+- Implementing rule-based recommendation logic in Python
+- Designing an interactive UI using Streamlit
+- Structuring a clean and maintainable Python project
+- Deploying a live app accessible to anyone on the internet
+
+---
+
+## 👩‍💻 Author
+**Sashmitha Gandhi**
+BSc Computer Science (AI) Student
+Aspiring AI/ML Engineer | Creative Tech Builder
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sashmitha-gandhi-610bb7303)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sashmithagandhi)
